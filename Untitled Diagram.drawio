@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T03:25:00.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="MUQwSKnvaNpXUEA18WXt" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T08:33:09.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="YKj899MNzs455dOOBYE3" version="15.5.0" type="github">
   <diagram id="_JjBT7h8oeDZBbeXstyy" name="Page-1">
-    <mxGraphModel dx="865" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="500" width="222.5" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="WcaRMcE1ToPl9hFpoS0a-1" value="APP流量" style="shape=tape;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="135" y="80" width="135" height="60" as="geometry" />
         </mxCell>
@@ -55,10 +58,10 @@
             <mxPoint x="530" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WcaRMcE1ToPl9hFpoS0a-17" value="swealth.shopee.co.id" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-16">
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-17" value="&lt;font color=&quot;#ff3333&quot;&gt;swealth&lt;/font&gt;.shopee.co.id" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WcaRMcE1ToPl9hFpoS0a-18" value="DP services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-18" value="INV services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WcaRMcE1ToPl9hFpoS0a-19" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-18">
@@ -67,7 +70,214 @@
             <mxPoint x="540" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WcaRMcE1ToPl9hFpoS0a-20" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/digital-purchase&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-19">
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-20" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/investment&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-21" value="APP流量" style="shape=tape;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="890" y="20" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-23" value="SG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-24" value="SGW" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-25" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcaRMcE1ToPl9hFpoS0a-21" target="WcaRMcE1ToPl9hFpoS0a-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="140" as="sourcePoint" />
+            <mxPoint x="830" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="958" y="150" />
+              <mxPoint x="830" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-26" value="&lt;font color=&quot;#ff3333&quot;&gt;swealth&lt;/font&gt;.shopee.co.id" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-27" value="INV services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-28" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="240" as="sourcePoint" />
+            <mxPoint x="840" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-29" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/investment&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="970" y="180" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-32" value="ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="970" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-33" value="NGX" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-34" value="INV services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-35" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="240" as="sourcePoint" />
+            <mxPoint x="1090" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-36" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/investment&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-37" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="80" as="sourcePoint" />
+            <mxPoint x="840" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="150" />
+              <mxPoint x="1080" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-38" value="&lt;font color=&quot;#ff3333&quot;&gt;swealth&lt;/font&gt;.shopee.co.id" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-39" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;DNS解析切换&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="912.5" y="80" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-50" value="SPM/HUB回调" style="shape=tape;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="519" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-52" value="SG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-53" value="SGW" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="619" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-54" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.444;exitY=0.856;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WcaRMcE1ToPl9hFpoS0a-50" target="WcaRMcE1ToPl9hFpoS0a-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="122.5333333333333" y="609" as="sourcePoint" />
+            <mxPoint x="180" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-55" value="dp-api-id.shopeemobile.com" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-56" value="DP services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="699" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-57" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="649" as="sourcePoint" />
+            <mxPoint x="190" y="629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-58" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="500" width="222.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-62" value="SPM/HUB回调" style="shape=tape;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="519" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-63" value="SG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-64" value="SGW" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="619" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-65" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.444;exitY=0.856;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WcaRMcE1ToPl9hFpoS0a-62" target="WcaRMcE1ToPl9hFpoS0a-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="472.5333333333333" y="609" as="sourcePoint" />
+            <mxPoint x="530" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-66" value="inv-api-id.shopeemobile.com" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-67" value="INV services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="699" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-68" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="649" as="sourcePoint" />
+            <mxPoint x="540" y="629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-69" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="494" width="222.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-71" value="SPM/HUB回调" style="shape=tape;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="513" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-72" value="SG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="494" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-73" value="SGW" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="613" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-74" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.444;exitY=0.856;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WcaRMcE1ToPl9hFpoS0a-71" target="WcaRMcE1ToPl9hFpoS0a-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="772.5333333333333" y="603" as="sourcePoint" />
+            <mxPoint x="830" y="643" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-75" value="inv-api-id.shopeemobile.com" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-76" value="delegate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="693" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-77" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="643" as="sourcePoint" />
+            <mxPoint x="840" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-78" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="962.5" y="494" width="222.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-81" value="ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="950" y="494" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-82" value="NGX" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="613" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-85" value="INV services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="693" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-86" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="WcaRMcE1ToPl9hFpoS0a-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="643" as="sourcePoint" />
+            <mxPoint x="1080" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-87" value="&lt;font style=&quot;font-size: 11px&quot;&gt;/internal&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=9;" connectable="0" vertex="1" parent="WcaRMcE1ToPl9hFpoS0a-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="WcaRMcE1ToPl9hFpoS0a-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-90" value="swealth.shopee.co.id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="WcaRMcE1ToPl9hFpoS0a-89">
+          <mxGeometry x="-0.5977" y="1" relative="1" as="geometry">
+            <mxPoint x="48" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-91" value="swealth.shopee.co.id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="949.9966666666668" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="WcaRMcE1ToPl9hFpoS0a-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="WcaRMcE1ToPl9hFpoS0a-76" target="WcaRMcE1ToPl9hFpoS0a-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
