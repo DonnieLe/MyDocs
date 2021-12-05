@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T06:52:09.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.7.3" etag="aSrDMm8kdgSyQACFfarx" type="github"><diagram id="wbJ69Wmb6_N0URxYEo8b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-05T07:30:18.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="7qJVOT4-7OaNe6Yp9CTa" version="15.7.3" type="github">
+  <diagram id="wbJ69Wmb6_N0URxYEo8b" name="第 1 页">
+    <mxGraphModel dx="1298" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-2" value="SG机房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="9bn9pjI0nVzdGJt-ESNv-4" target="9bn9pjI0nVzdGJt-ESNv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-4" value="Invest 服务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="9bn9pjI0nVzdGJt-ESNv-5" target="9bn9pjI0nVzdGJt-ESNv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-16" value="外网IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="9bn9pjI0nVzdGJt-ESNv-8">
+          <mxGeometry x="-0.1714" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-5" value="NGX代理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="227" width="70" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-7" value="外网服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-10" value="设置x-real-ip为外网IP" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="115" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="400" width="720" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-12" value="SG机房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="68" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="9bn9pjI0nVzdGJt-ESNv-14" target="9bn9pjI0nVzdGJt-ESNv-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-20" value="内网IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="9bn9pjI0nVzdGJt-ESNv-13">
+          <mxGeometry x="0.0632" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;dashed=1;curved=1;" edge="1" parent="1" source="9bn9pjI0nVzdGJt-ESNv-14" target="9bn9pjI0nVzdGJt-ESNv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-19" value="解析HUB gateway 的IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="9bn9pjI0nVzdGJt-ESNv-18">
+          <mxGeometry x="-0.4429" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-14" value="Invest 服务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="128" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-15" value="内网DNS" style="shape=tape;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="208" y="620" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="9bn9pjI0nVzdGJt-ESNv-17" target="9bn9pjI0nVzdGJt-ESNv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-23" value="内网IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="9bn9pjI0nVzdGJt-ESNv-22">
+          <mxGeometry x="0.1552" y="-3" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-17" value="SGW" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="372" y="495" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9bn9pjI0nVzdGJt-ESNv-21" value="HUB 服务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="548" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
